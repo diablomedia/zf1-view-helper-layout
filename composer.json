@@ -11,7 +11,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-view": "^1.0.0",
+        "diablomedia/zendframework1-view": "^1.0.3",
         "diablomedia/zendframework1-layout": "^1.0.0"
     },
     "autoload": {
